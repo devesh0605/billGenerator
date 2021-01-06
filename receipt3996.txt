@@ -1,0 +1,7 @@
+Welcome to Hellfire kitchen !!!! 
+Item      Unit_price   Quantity   Total_item_price 
+Burger        30        3        90
+Chips         20        2         40
+Drinks        20        2         40
+Grand total=170
+Thank you for shopping with us. Come again!!

@@ -1,0 +1,4 @@
+Welcome to Hellfire kitchen !!!! 
+Item Unit_price Quantity Total_item_price 
+Total=0
+Thank you for shopping with us. Come again!!

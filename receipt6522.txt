@@ -1,0 +1,6 @@
+Welcome to Hellfire kitchen !!!! 
+Item      Unit_price        Quantity        Total_item_price 
+Chips         20        1         20
+Drinks        20        1         20
+Total=40
+Thank you for shopping with us. Come again!!

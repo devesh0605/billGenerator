@@ -1,0 +1,4 @@
+Welcome to Hell'e kitchen !!!! 
+Item Unit_price Quantity Total_item_price 
+Burger 30 4 120
+Total=120Thank you for shopping with us. Come again!!

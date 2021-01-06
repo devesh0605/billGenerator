@@ -1,0 +1,7 @@
+Welcome to Hellfire kitchen !!!! 
+Item        Unit_price        Quantity        Total_item_price 
+Fries         20        2         40
+Drinks        20        2         40
+Ice_Cream     15        2         30
+Total=110
+Thank you for shopping with us. Come again!!
